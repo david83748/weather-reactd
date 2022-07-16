@@ -1,0 +1,19 @@
+.weather,
+.weather-advice {
+  text-align: center;
+}
+
+.weather-advice {
+  font-size: 45px;
+  color: green;
+}
+.header {
+  display: flex;
+  flex-direction: column;
+  font-size: 40px;
+}
+.link {
+  padding: 1%;
+  color: blue;
+  text-decoration: none;
+}
